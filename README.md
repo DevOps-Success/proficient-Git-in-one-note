@@ -2,4 +2,4 @@
 
 
 ### Git flow
-![branch](./imaages/git-branch.PNG)
+![branch](https://github.com/DevOps-Success/proficient-Git-in-one-note/blob/main/images/git-branch.PNG)
