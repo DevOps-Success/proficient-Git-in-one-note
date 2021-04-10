@@ -22,6 +22,10 @@ git push origin master
 ```
 git tag v1
 ```
+- or git tag with commit hash
+```
+git tag -a v1.1 9fceb02 -m "Message here"
+```
 
 - view tag
 ```
