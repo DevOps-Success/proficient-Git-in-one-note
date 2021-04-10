@@ -41,3 +41,10 @@ git push --tags
 ```
 git checkout v1
 ```
+
+### 4 Git Log
+
+- view log
+```
+ git log --oneline
+```
